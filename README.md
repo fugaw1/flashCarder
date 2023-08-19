@@ -7,7 +7,7 @@ I decided hand writing flash cards was lame, so I made this program that takes i
 It will take input for the file, what character/s you want to split with, and which side of the card you want the question to be.
 If you're studying something and want to use flash cards, you can just make a file and run off that instead of using a big bloated website or buying index cards.
 
-I need it's neat.
+I think it's neat.
 
 ___
 # Installation
