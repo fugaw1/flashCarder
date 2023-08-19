@@ -9,6 +9,20 @@ If you're studying something and want to use flash cards, you can just make a fi
 
 I need it's neat.
 
+___
+# Installation
+```
+git clone https://github.com/fugaw1/flashCarder.git
+cd /flashCarder
+python3 flashCarder.py -h
+```
+
+Run the test file
+```
+python3 flashCarder.py -i testflash -s ':' -b
+```
+___
+
 ```
 python3 flashCarder.py -h                                   
 usage: flashCarder.py [-h] [-i INPUT] [-s SPLIT] [-b]
